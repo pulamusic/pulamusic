@@ -1,5 +1,3 @@
-<link href="assets/styles.css" rel="stylesheet" type="text/css">
-
 > Jim Carroll, Ph.D. |
 > [Instructional Designer, Cultural Historian, Musician](https://github.com/pulamusic)
 
@@ -15,12 +13,9 @@
 
 Music is at the core of everything I do as a teacher and academic. [Let me leave that to speak for itself](https://soundcloud.com/pulamusic).
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040103352&color=%23d38d69&inverse=false&auto_play=true&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pulamusic" title="pulamusic" target="_blank" style="color: #cccccc; text-decoration: none;">pulamusic</a> · <a href="https://soundcloud.com/pulamusic/mosimanyana" title="Mosimanyana" target="_blank" style="color: #cccccc; text-decoration: none;">Mosimanyana</a></div>
-
 <a href="https://soundcloud.com/pulamusic" target="_blank">
-  <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="center" class="soundcloud-img">
+  <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="left" style="margin: 0.2em 2em;" class="soundcloud-img">
 </a>
-
 
 <!--
 **pulamusic/pulamusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
