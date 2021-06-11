@@ -8,18 +8,19 @@
 
 **Music is at the core of everything I do as a teacher and academic. [Let me leave that to speak for itself](https://soundcloud.com/pulamusic)**.
 
-<a href="https://soundcloud.com/pulamusic" target="_blank">
-  <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="left" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="soundcloud-img">
-</a>
+<figure>
+  <a href="https://soundcloud.com/pulamusic" target="_blank">
+    <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="left" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="soundcloud-img">
+  </a>
+  <figcaption>Kalahari Duolian</figcaption>
+</figure>
 
 <a href="mailto:contact@pulamusic.com"><h2 align="center">Please feel free to contact me</h2></a>
 
 ---
 
-<div style="padding: 0.2em; box-shadow: 0.4em 0.3em 6em rgba(22, 22, 22, 0.8);">
 [![GitHub](assets/github_alt_icon_64px.png)](https://pulamusic.github.io)
 [![Wordpress](assets/wordpress_icon_64px.png)](https://pulablog.com/)
 [![Twitter](assets/twitter_icon_64px.png)](https://twitter.com/pulamusic)
 [![Facebook](assets/facebook_icon_64px.png)](https://www.facebook.com/PulaBlog)
 [![Soundcloud](assets/soundcloud_icon_64px.png)](https://soundcloud.com/pulamusic)
-</div>
