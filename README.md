@@ -13,7 +13,7 @@ Music is at the core of everything I do as a teacher and academic. [Let me leave
   <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="left" style="margin: 0.2em 2em;" class="soundcloud-img">
 </a>
 
-<a href="mailto:contact@pulamusic.com"><h4 align="center">Please feel free to contact me</h4></a>
+<a href="mailto:contact@pulamusic.com"><h2 align="center">Please feel free to contact me</h2></a>
 
 <!--
 **pulamusic/pulamusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
