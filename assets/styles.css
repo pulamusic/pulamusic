@@ -1,0 +1,21 @@
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0.4em;
+}
+
+.contact {
+  text-align: center;
+  font-style: italic;
+}
+
+.feature-img {
+  margin: 0.2em auto;
+}
+
+.soundcloud-img {
+  float: right;
+  margin: 0.2em;
+  border: 1px solid rgb(83, 81, 81);
+  box-shadow: 0.2em 0.2em 5em rgb(83, 81, 81);
+}
