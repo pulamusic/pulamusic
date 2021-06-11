@@ -14,8 +14,7 @@ Music is at the core of everything I do as a teacher and academic. [Let me leave
 
 <a href="mailto:contact@pulamusic.com"><h2 align="center">Please feel free to contact me</h2></a>
 
-<a href="https://pulamusic.github.io" target="_blank"><img href="assets/github_alt_icon_64px.png" alt="GitHub" align="center"></a>
-<a href="https://pulablog.com/" target="_blank"><img href="assets/wordpress_icon_64px.png" alt="Wordpress" align="center"></a>
-<a href="https://twitter.com/pulamusic" target="_blank"><img href="assets/twitter_icon_64px.png" alt="Twitter" align="center"></a>
-<a href="https://www.facebook.com/PulaBlog" target="_blank"><img href="assets/facebook_icon_64px.png" alt="Facebook" align="center"></a>
-
+[![GitHub](assets/github_alt_icon_64px.png)](https://pulamusic.github.io)
+[![Wordpress](assets/wordpress_icon_64px.png)](https://pulablog.com/)
+[![Twitter](assets/twitter_icon_64px.png)](https://twitter.com/pulamusic)
+[![Facebook](assets/facebook_icon_64px.png)](https://www.facebook.com/PulaBlog)
