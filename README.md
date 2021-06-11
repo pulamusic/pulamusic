@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/f7c95b156e.js" crossorigin="anonymous"></script>
-
 # pulamusic
 
 <img src="assets/Walking-Central-Kalahari-solarized-tiles-strip.png" alt="Walking through the Central Kalahari Game Reserve" align="center" class="feature-img">
@@ -16,8 +14,15 @@ Music is at the core of everything I do as a teacher and academic. [Let me leave
 
 <a href="mailto:contact@pulamusic.com"><h2 align="center">Please feel free to contact me</h2></a>
 
+<img href="assets/github-brands.svg">
+<img href="assets/wordpress-brands.svg">
+<img href="assets/twitter-brands.svg">
+<img href="assets/facebook-square-brands.svg">
+
+<!--
 <div>
   <a href="https://github.com/pulamusic" target="_blank"><i class="fab fa-github"></i></a>
   <a href="https://twitter.com/pulamusic" target="_blank"><i class="fab fa-twitter-square"></i></a>
   <a href="https://pulablog.com/" target="_blank"><i class="fab fa-wordpress"></i></a>
 </div>
+-->
