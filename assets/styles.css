@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&family=Raleway:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
 body {
-  font-size: 16px;
+  font-size: 18px;
   margin: 0;
   padding: 0.4em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
 }
 
 .contact {
@@ -14,8 +23,7 @@ body {
 }
 
 .soundcloud-img {
-  float: right;
-  margin: 0.2em;
+  margin: 0.2em 2em;
   border: 1px solid rgb(83, 81, 81);
   box-shadow: 0.2em 0.2em 5em rgb(83, 81, 81);
 }
