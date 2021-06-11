@@ -18,3 +18,4 @@ Music is at the core of everything I do as a teacher and academic. [Let me leave
 [![Wordpress](assets/wordpress_icon_64px.png)](https://pulablog.com/)
 [![Twitter](assets/twitter_icon_64px.png)](https://twitter.com/pulamusic)
 [![Facebook](assets/facebook_icon_64px.png)](https://www.facebook.com/PulaBlog)
+[![Soundcloud](assets/soundcloud_icon_64px.png)](https://soundcloud.com/pulamusic)
