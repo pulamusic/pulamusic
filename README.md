@@ -6,11 +6,11 @@
 
 <div class="qr-images" style="display: flex; flex-direction: row; justify-content: space-evenly; flex-wrap: wrap;">
   <figure>
-    <img src="assets/qrcode_github.com_pulamusic.png" alt="pulamusic GitHub QR code" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="pulamusic-qr-code">
+    <img src="assets/qrcode_github.com_pulamusic.png" alt="pulamusic GitHub QR code" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6); width: 64px; height: auto;" class="pulamusic-qr-code">
     <figcaption>pulamusic</figcaption>
   </figure>
   <figure>
-    <img src="assets/qrcode_github.com_pulamusicMedia.png" alt="pulamusicMedia GitHub QR code" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="pulamusic-qr-code">
+    <img src="assets/qrcode_github.com_pulamusicMedia.png" alt="pulamusicMedia GitHub QR code" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6); width: 64px; height: auto;" class="pulamusic-qr-code">
     <figcaption>pulamusicMedia</figcaption>
   </figure>
 </div>
