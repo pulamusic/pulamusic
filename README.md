@@ -6,6 +6,8 @@
 
 [***pulamusic***](pulamusic.com) is a brand name I created a number of years ago to represent the breadth of what I do as an academic and musician. The word *pula* means *rain* in Setswana, the national language of Botswana where I lived and worked as a teacher and trainer from 1991-99. Since Botswana is a desert country -- the Kalahari Desert -- rain is an important environmental element, bringing life and luck and prosperity. It is an image that rings true to me still in terms of how I approach my work and the people around me.
 
+![pulamusic qr code](assets/qrcode_github.com_pulamusic-65x65.png)
+
 ---
 
 **Music is at the core of everything I do as a teacher and academic**. [Let me leave that to speak for itself. Click here or on the image below to visit my audio portfolio on SoundCloud.](https://soundcloud.com/pulamusic).
@@ -26,17 +28,3 @@
 [![Twitter](assets/twitter_icon_64px.png)](https://twitter.com/pulamusic)
 [![Facebook](assets/facebook_icon_64px.png)](https://www.facebook.com/PulaBlog)
 [![Soundcloud](assets/soundcloud_icon_64px.png)](https://soundcloud.com/pulamusic)
-
----
-
-## . . . or scan the codes below to find me on your phone
-
-![pulamusic](assets/qrcode_github.com_pulamusic-65x65.png)
-
-#### pulamusic
-
-![pulamusic logo](assets/pulamusic-logo.png)
-
-#### pulamusicMedia
-
-![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)(align="center")
