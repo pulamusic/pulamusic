@@ -39,4 +39,4 @@
 
 #### pulamusicMedia
 
-![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)
+![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)(align="center")
