@@ -31,8 +31,12 @@
 
 ## . . . or scan the codes below to find me on your phone
 
-#### pulamusic ![pulamusic](assets/qrcode_github.com_pulamusic-65x65.png)
+![pulamusic](assets/qrcode_github.com_pulamusic-65x65.png)
+
+#### pulamusic
 
 ![pulamusic logo](assets/pulamusic-logo.png)
 
-#### pulamusicMedia ![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)
+#### pulamusicMedia
+
+![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)
