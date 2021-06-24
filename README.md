@@ -4,7 +4,7 @@
 
 ## Jim Carroll, Ph.D. | [Instructional Designer, Cultural Historian, Musician](https://github.com/pulamusic)
 
-<div class="qr-images" style="display: flex; flex-direction: row; justify-content: space-evenly; flex-wrap: wrap;">
+<div class="qr-images" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; width: 100%">
   <figure>
     <img src="assets/qrcode_github.com_pulamusic-65x65.png" alt="pulamusic GitHub QR code" style="margin: 0.2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6); width: 64px; height: auto;" class="pulamusic-qr-code">
     <figcaption>pulamusic</figcaption>
@@ -14,6 +14,7 @@
     <figcaption>pulamusicMedia</figcaption>
   </figure>
 </div>
+
 
 [***pulamusic***](pulamusic.com) is a brand name I created a number of years ago to represent the breadth of what I do as an academic and musician. The word *pula* means *rain* in Setswana, the national language of Botswana where I lived and worked as a teacher and trainer from 1991-99. Since Botswana is a desert country -- the Kalahari Desert -- rain is an important environmental element, bringing life and luck and prosperity. It is an image that rings true to me still in terms of how I approach my work and the people around me.
 
