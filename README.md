@@ -16,7 +16,7 @@
   <a href="https://soundcloud.com/pulamusic" target="_blank">
     <img src="assets/kalahari-duolian-thumbnail.png" alt="Kalahari Duolian" align="left" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="soundcloud-img">
   </a>
-  <figcaption><em>Kalahari Duolian</em></figcaption>
+  <figcaption><a href="https://soundcloud.com/pulamusic/dust-my-broom" target="_blank"><em>Kalahari Duolian</em></a></figcaption>
 </figure>
 
 ---
