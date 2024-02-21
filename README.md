@@ -13,9 +13,10 @@
 
 <figure>
   <a href="https://a.co/d/7Kb8fSK" target="_blank">
-    <img src="assets/Maru-cover-sm.jpg" alt="Maru, by Bessie Head" align="left" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6);" class="soundcloud-img">
+    <img src="assets/Maru-cover-sm.jpg" alt="Maru, by Bessie Head" align="left" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6); width: 250px; height: auto;" class="soundcloud-img">
   </a>
-  <figcaption><a href="https://soundcloud.com/pulamusic/dust-my-broom" target="_blank"><em>Maru</em> (1971), Bessie Head</a></figcaption>
+  <figcaption style="font-size: 18px; line-height: 1.8;"><a href="https://soundcloud.com/pulamusic/dust-my-broom" target="_blank"><em>Maru</em> (1971), Bessie Head</a></figcaption>
+  
   <p><em>Maru</em> is a novel by Bessie Head, a South African writer who lived in Serowe, Botswana for many years. The word <em>Maru</em> means clouds in Setswana.</p>
 </figure>
 
@@ -32,15 +33,15 @@
 
 ---
 
-### pulamusicMedia
+### *pulamusicMedia* . . .
 
-**pulamusicMedia** is the organizational name I use for my instructional design consultancy. I haven't yet finished a website, but there will be one or more sites soon.
+. . . is the organizational name I use for my instructional design consultancy. I haven't yet finished a website, but there will be one or more sites soon.
 
-![pulamusicMedia](assets/qrcode_github.com_pulamusicMedia-65x65.png)
+<img src="https://avatars.githubusercontent.com/u/84543721?s=400&u=6fadf0b60664da87a031e877c91c02ef193a023c&v=4" alt="pulamusicMedia logo" align="right" style="margin: 0.2em 0.5em 0.2em 2em; box-shadow: 0.4em 0.4em 2em rgba(45, 45, 45, 0.6); width: 250px; height: auto" class="soundcloud-img">
 
----
+<!-- ---
 
-<a href="mailto:contact@pulamusic.com"><h2 align="center">Please feel free to contact me</h2></a>
+<a href="mailto:contact@pulamusic.com"><h4 align="center">Please feel free to contact me</h4></a>-->
 
 ---
 
