@@ -8,12 +8,12 @@
 
 [***pulamusic***](pulamusic.com) is a brand name I created a number of years ago to represent the breadth of what I do as an academic and musician. The word *pula* means *rain* in Setswana, the national language of Botswana, where I lived and worked as a teacher and trainer from 1991-99. Since Botswana is a desert country -- the Kalahari Desert -- rain is an important environmental element, bringing life and luck and prosperity. It is an image that rings true to me still in terms of how I approach my work and the people around me.
 
-![*Maru* is a novel by Bessie Head, a South African writer who lived in Serowe, Botswana for many years. The word *Maru* means vclouds in Setswana.](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545630433i/219867.jpg)
+![*Maru* is a novel by Bessie Head, a South African writer who lived in Serowe, Botswana for many years. The word *Maru* means vclouds in Setswana.](assets/Maru-cover-sm.jpg)
 >*Maru* is a novel by Bessie Head, a South African writer who lived in Serowe, Botswana for many years. The word *Maru* means vclouds in Setswana.
 
 ---
 
-**Music is at the core of everything I do as a teacher and academic**. [Let me leave that to speak for itself. Click here or on the image below to visit my audio portfolio on SoundCloud.](https://soundcloud.com/pulamusic).
+**Music is at the core of everything I do as a teacher and academic**. Let me leave that to speak for itself. [Click here or on the image below to visit my audio portfolio on SoundCloud.](https://soundcloud.com/pulamusic).
 
 <figure>
   <a href="https://soundcloud.com/pulamusic" target="_blank">
